@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\software architecture and design\\lab_1_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{644429D3-F7FA-4574-A0C1-9F769DCBBB13}|project.vcxproj|C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\software architecture and design\\lab_1_\\entrypoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{644429D3-F7FA-4574-A0C1-9F769DCBBB13}|project.vcxproj|solutionrelative:entrypoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "entrypoint.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\software architecture and design\\lab_1_\\entrypoint.cpp",
+              "RelativeDocumentMoniker": "entrypoint.cpp",
+              "ToolTip": "C:\\Users\\\u0410\u0440\u0442\u0435\u043C\\Desktop\\software architecture and design\\lab_1_\\entrypoint.cpp",
+              "RelativeToolTip": "entrypoint.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T11:44:38.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
